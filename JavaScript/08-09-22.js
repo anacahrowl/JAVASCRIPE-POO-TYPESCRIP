@@ -15,8 +15,6 @@ let peso, nome, altura, datainternacao, diabetes
     + "Data de internação: " + datainternacao
     + "Paciente diabético : ." + diabetes);
 
-
-
     /*TIPOS DE VARÁVEIS*/
 
 
